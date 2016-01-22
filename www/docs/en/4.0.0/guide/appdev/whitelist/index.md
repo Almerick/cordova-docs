@@ -23,7 +23,7 @@ title: Whitelist Guide
 # Whitelist Guide
 
 Domain whitelisting is a security model that controls access to
-external domains over which you application has no control.  Cordova's
+external domains over which your application has no control.  Cordova's
 default security policy allows access to any site. Before moving your
 application to production, you should formulate a whitelist and allow
 access to specific network domains and subdomains.
